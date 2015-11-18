@@ -40,7 +40,7 @@ More precisely, an R-script 'run_analysis.R' should be written that does the fol
 2. Place the zipped file in your working directory and **unzip** it. The result is 
 a folder titled 'UCI HAR Dataset' containing files and subfolders.
 
-3. Download the R-script 'run_analysis.R' provided in this repo and save it to your working directory. 
+3. Download the R-script 'run_analysis.R' provided in this repo (click on its name and then right click on the "Raw" button) and save it to your working directory. 
 
 4. Run the R-script 'run_analysis.R' by typing 
 ```{r}
